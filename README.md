@@ -15,9 +15,10 @@ Python
 Pandas – data handling
 Matplotlib – data visualization
 
+
 📂 Project Structure
 data_visualization/
-│
+
 ├── data/
 │   └── dataset.csv
 │
@@ -32,5 +33,5 @@ data_visualization/
 Activate virtual environment: venv\Scripts\activate
 Run the script: python main.py
 View generated charts inside the charts folder . 
-└── venv/
+
 
