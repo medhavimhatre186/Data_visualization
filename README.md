@@ -19,15 +19,17 @@ Matplotlib – data visualization
 📂 Project Structure
 data_visualization/
 
+// PROJECT STRUCTURE START
+
+DATA_VISUALIZATION/
+├── charts/
+│   └── sales_growth.png
 ├── data/
 │   └── dataset.csv
-│
-├── charts/
-│   ├── sales_growth.png
-│   └── sales_bar.png
-│
-├── main.py
-├── README.md
+├── venv/
+└── main.py
+
+// PROJECT STRUCTURE END
 
 ▶️ How to Run the Project
 Activate virtual environment: venv\Scripts\activate
