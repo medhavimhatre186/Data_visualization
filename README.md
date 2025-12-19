@@ -1,6 +1,7 @@
 📊 Data Visualization Project
 
 📌 Overview
+
 This project focuses on transforming raw sales data into meaningful visual representations using Python.
 The goal is to identify trends, compare values, and generate insights that support data-driven decision-making.
 
@@ -10,13 +11,11 @@ The goal is to identify trends, compare values, and generate insights that suppo
 - Analyze sales trends over multiple years
 - Create professional-quality charts suitble for reports and portfolios
 - Extract insights to support business uderstanding
-- 
+  
 
 🛠 Tools & Technologies
-Python
-
-Pandas – data handling
-
+-Python
+-Pandas – data handling
 Matplotlib – data visualization
 
 
